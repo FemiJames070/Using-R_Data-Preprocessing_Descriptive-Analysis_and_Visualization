@@ -6,7 +6,7 @@
 [![corrplot](https://img.shields.io/badge/corrplot-Correlation_Matrix-orange?style=flat)](#)
 
 ## 📖 Project Overview
-This repository contains a comprehensive statistical analysis of the nutritional content of fast food. Using **R**, we explored a dataset of 515 menu items from various popular fast-food chains, evaluating 17 distinct variables—ranging from macronutrients (calories, fats, proteins) to micronutrients (vitamins, calcium). 
+This repository contains a comprehensive statistical analysis of the nutritional content of fast food. Using **R**, we explored a dataset of 515 menu items from various popular fast-food chains, evaluating 17 distinct variables, ranging from macronutrients (calories, fats, proteins) to micronutrients (vitamins, calcium). 
 
 The core objective of this project is to apply rigorous data preprocessing, descriptive statistics, and Exploratory Data Analysis (EDA) to uncover the underlying nutritional patterns and distributions within the fast-food industry.
 
